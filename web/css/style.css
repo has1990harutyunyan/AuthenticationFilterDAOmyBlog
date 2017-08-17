@@ -1,0 +1,39 @@
+body {
+    background-color: lightgrey;
+}
+
+.main{
+    margin: 0 auto;
+    width: 800px;
+    height:1060px;
+    border: solid;
+}
+.header img {
+    width:800px;
+    height:230px;
+
+}
+.left {
+    margin: 5px;
+    width: 530px;
+    height: 400px;
+    float: left;
+}
+
+.leftInfo {
+    width: 530px;
+
+}
+.right{
+    float: left;
+    width: 200px;
+    height: 400px;
+}
+.rightInfo{
+    float:left;
+}
+p {
+    text-align: justify;
+}
+
+
